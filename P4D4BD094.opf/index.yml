@@ -1,0 +1,17 @@
+id: 7113ffaefff44769a0ecd9ffcbae0a6f
+annotation_type: index
+revision: '00001'
+annotations:
+  1d5cbdd7fd2b4d7a818e92af7faf732b:
+    work_id: JCP1
+    parts:
+      2100af8796864200adca515c83998367:
+        work_id: JCP1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 540629
+    span:
+    - vol: 1
+      start: 0
+      end: 540629
